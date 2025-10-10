@@ -1,0 +1,4 @@
+This is a test version of vi edition.
+What a esoteric tool it is that I even can't input any information fluently.
+按住“o"键可从光标的下一行进入输入模式
+
